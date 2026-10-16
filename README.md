@@ -13,6 +13,7 @@ Design in 30 day
 <meta property="og:title" content="Design in 30 days | تعلم الجرافيك في 30 يوم بالدارجة التونسية">
 <meta property="og:description" content="تعلم الجرافيك في 30 يوم بالدارجة التونسية: خطة يومية من 30 إلى 60 دقيقة، من الصفر حتى أول بورتفوليو. ألوان، خطوط، لوغو وهوية.">
 <meta name="twitter:card" content="summary
+  <meta name="google-site-verification" content="x7ADTzs2FLzhZwfVxhMcu8G9FcS37cTlAqYBhJ6xbL0" />
 content="x7ADTzs2FLzhZwfVxhMcu8G9FcS37cTlAqYBhJ6xbL0" />
   <link rel="canonical" href="https://arbitb677-design.github.io/Arbi/">
 <meta property="og:url" content="https://arbitb677-design.github.io/Arbi/">
