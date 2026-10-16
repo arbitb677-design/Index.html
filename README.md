@@ -1,5 +1,3 @@
-# Index.html
-Design in 30 day
 <!doctype html>
 <html lang="ar" dir="rtl">
 <head><meta name="google-site-verification" content="x7ADTzs2FLzhZwfVxhMcu8G9FcS37cTlAqYBhJ6xbL0" />
